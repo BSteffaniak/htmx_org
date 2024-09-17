@@ -1,0 +1,18 @@
+[package]
+name = "htmx_org"
+version = "0.1.0"
+edition = "2021"
+authors = ["Braden Steffaniak"]
+categories = ["web-programming"]
+description = "htmx.org js package"
+keywords = ["htmx", "htmx_org", "ceo", "internet"]
+license = "MPL-2.0"
+readme = "README.md"
+repository = "https://github.com/BSteffaniak/htmx_org"
+
+[dependencies]
+
+[features]
+default = []
+
+fail-on-warnings = []
